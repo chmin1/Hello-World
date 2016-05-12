@@ -1,2 +1,6 @@
 # Hello-World
-Just a display of codes I've worked made in various languages
+Baltimore, Maryland
+Morgan State University
+Computer Science Major
+
+Exhibition of codes I've worked made in various languages.
